@@ -67,7 +67,7 @@ public class Product extends AppCompatActivity {
             case "household":
                 smarthomes.add(createSmarthome("แก้วน้ำ", "https://i.pinimg.com/736x/2f/f4/ab/2ff4abe686f1b02e965f6a0019338d58.jpg", "", "150 บาท"));
                 smarthomes.add(createSmarthome("จาน", "https://i.pinimg.com/736x/de/97/c7/de97c797d2c019e30017cd0f8c10b3c5.jpg", "", "170 บาท"));
-                smarthomes.add(createSmarthome("ช้อน", "https://i.pinimg.com/564x/fa/a7/23/faa7238a5fcb1d767d11c905ffb6bd9d.jpg", "Summer Cake", "59 บาท"));
+                smarthomes.add(createSmarthome("ช้อน", "https://i.pinimg.com/564x/fa/a7/23/faa7238a5fcb1d767d11c905ffb6bd9d.jpg", "", "59 บาท"));
                 smarthomes.add(createSmarthome("แก้วชา", "https://i.pinimg.com/736x/03/79/45/0379452b7c10d1b12bcd985082dc54e1.jpg", "", "150 บาท"));
                 break;
 
